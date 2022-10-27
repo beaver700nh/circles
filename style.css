@@ -11,6 +11,9 @@
 .row {
   margin: -10px 0px;
   padding: 1px;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 .row:nth-child(odd) {

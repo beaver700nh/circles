@@ -1,8 +1,8 @@
 window.onload = function () {
   console.log(window.location);
 
-  const w = Math.floor((window.innerWidth  - 4 + 2) / 12);
-  const h = Math.floor((window.innerHeight - 4 + 2) / 11);
+  const w = Math.floor((window.innerWidth  - 4 + 2) / 10);
+  const h = Math.floor((window.innerHeight - 4 + 2) / 10);
 
   const container = document.getElementsByClassName("container")[0];
 
