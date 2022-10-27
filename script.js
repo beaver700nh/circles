@@ -1,4 +1,6 @@
 window.onload = function () {
+  console.log(window.location);
+
   const w = Math.floor((window.innerWidth  - 4 + 2) / 12);
   const h = Math.floor((window.innerHeight - 4 + 2) / 11);
 
